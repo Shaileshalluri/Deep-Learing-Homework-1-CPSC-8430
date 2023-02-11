@@ -1,6 +1,5 @@
 # Deep-Learing-Homework-1-CPSC-8430
 
-README
 Shailesh Alluri
 
 The files in this folder and their purpose are listed below. A description of 
