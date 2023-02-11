@@ -2,19 +2,17 @@
 
 Shailesh Alluri
 
-The files in this folder and their purpose are listed below. A description of 
-the funtionality of each file can be found at the top of that file:
-assignment_prompt.pdf - Directions for Assignment, written by Dr. Luo
-Part1-1.ipynb - source code for Part1.1 Simulate a Function (Task 1 of part 1)
-Part1-2.ipynb - source code for Part1.2 Train on an Actual Task(Task 2 of part 1)
-Part2-1.ipynb - source code for Part2.1 Visualize the Optimization Process
-Part2-2.ipynb - source code for Part2.2 Observe Gradient Norm during Training
-Part2-3.ipynb - souce code for Part2.3 Calculating minimal ratio at zero gradient
-Part3-1- Random Labels.ipynb - source code for Part3.1 Can Network fit Random Labels?
-Part3-2-Number of Params.ipynb - source code for Part3.2 Number of Parameters VS.Generalization
-Part3-3-1 - Interpolation.ipynb - source code for Part3.3.1 Flatness VS. Generalization
-Part3-3-2-batch sz.ipynb - souce code for Part3.3.2 Flatness VS. Generalization
-Deep_Learning_HW1.pdf - Assignment report with analysis of code and results
+The files in this folder and their purpose are listed below. A description of the funtionality of each file can be found at the top of that file:  
+Part1-1.ipynb - source code for Part1.1 Simulate a Function (Task 1 of part 1). 
+Part1-2.ipynb - source code for Part1.2 Train on an Actual Task(Task 2 of part 1). 
+Part2-1.ipynb - source code for Part2.1 Visualize the Optimization Process. 
+Part2-2.ipynb - source code for Part2.2 Observe Gradient Norm during Training. 
+Part2-3.ipynb - souce code for Part2.3 Calculating minimal ratio at zero gradient. 
+Part3-1- Random Labels.ipynb - source code for Part3.1 Can Network fit Random Labels. 
+Part3-2-Number of Params.ipynb - source code for Part3.2 Number of Parameters VS.Generalization. 
+Part3-3-1 - Interpolation.ipynb - source code for Part3.3.1 Flatness VS. Generalization. 
+Part3-3-2-batch sz.ipynb - souce code for Part3.3.2 Flatness VS. Generalization. 
+Deep_Learning_HW1.pdf - Assignment report with analysis of code and results. 
 
 To run these files, the following libraries are required:
 python 3.8
